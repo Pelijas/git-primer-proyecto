@@ -8,3 +8,5 @@ print("¡Bienvenido a mi primer proyecto Git!")
 
 print("Esta línea se ha añadido desde el proyecto original.")
 print("Esta línea se ha añadido desde el proyecto original.")
+
+New-Item .gitignore -ItemType File
