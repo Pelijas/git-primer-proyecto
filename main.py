@@ -3,3 +3,5 @@ print(f"¡Hola, {nombre}!")
 
 edad = input("¿Cuántos años tienes? ")
 print(f"Tienes {edad} años.")
+
+print("¡Bienvenido a mi primer proyecto Git!")
